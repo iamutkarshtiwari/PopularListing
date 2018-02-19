@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="movie_details_activity_label">Movie Details</string>
+
+    <string name="movie_poster_image_content_description">poster icon</string>
+    <string name="main_menu_popular_item_title">Popular</string>
+    <string name="main_menu_top_rated_item_title">Top Rated</string>
+    <string name="main_menu_favorites_item_title">Favorites</string>
+
+    <string name="movies_content_authority">com.iamutkarshtiwari.popularmovies</string>
+
+    <string name="movie_posters_empty_message">There are no movies to show : (</string>
+
+    <string name="movie_details_trailers_title">Trailers</string>
+
+    <string name="movie_details_reviews_title">Reviews</string>
+</resources>
